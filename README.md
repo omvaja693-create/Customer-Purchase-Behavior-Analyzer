@@ -12,7 +12,7 @@
 
 ## 🎥 Video Walkthrough
 
-> 🔗 _[Google Drive link — coming soon]_
+> 🔗 https://drive.google.com/file/d/1CNitkRGILgeZuic_vmZaVfbou3rfZxRb/view?usp=sharing
 
 ---
 

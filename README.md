@@ -48,6 +48,10 @@ This project builds a clean, analysis-ready dataset from three raw sources — *
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `Seaborn` · `Matplotlib` · `ydata-profiling` · `SQLite`
 
+## 📦 Output
+
+The fully cleaned, transformed, and encoded dataset is exported as **`final_model_friendly_data.csv`** — ready to feed directly into any ML model.
+
 ## 🚀 Getting Started
 
 ```bash
@@ -64,6 +68,7 @@ Place `inventory.db`, `sales.json`, and `users.csv` inside a `dataset/` folder, 
 │   ├── sales.json
 │   └── users.csv
 ├── distribution.png
+├── final_model_friendly_data.csv
 └── Customer_Purchase_Behavior_Analyzer.ipynb
 ```
 
